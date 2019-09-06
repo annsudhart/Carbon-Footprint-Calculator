@@ -1,3 +1,5 @@
+NOTE: Currently we are out of credentials for the Google Maps Matrix API. Hopefully sometime we can get some more so that we can upload the server online!
+
 # Carbon Footprint Calculator
 Calculates your carbon dioxide emission when you travel from one place to another, depending on your distance and mode of transporation. The Carbon Footprint Calculator is your go-to tool for looking up and comparing modes of transportation before you go use Google Maps to obtain your travel route. You can choose among several transporation modes like driving, carpooling, using public transport, biking, and walking to see the comparisons in carbon dioxide emissions.
 
